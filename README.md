@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Pedro Liberato
 
 - 🔭 Estou cursando Sistemas de Informação(2/8)
-- 🌱 Estudando no momento Análise de Dados
-- 👯 Procurando Estágio!
+- 🌱 Estudando no momento Segurança (InfoSec/CyberSec)
 
 <div>
   <a href="https://github.com/Pdkkk">
