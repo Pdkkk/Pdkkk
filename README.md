@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Liberato
 
-- 🔭 Estou cursando Sistemas de Informação(2/8)
+- 🔭 Estou cursando Sistemas de Informação(4/8)
 - 🌱 Estudando no momento Segurança (InfoSec/CyberSec)
 
 <div>
